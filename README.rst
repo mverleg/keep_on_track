@@ -6,4 +6,4 @@ A multi-platform tool for making daily plans and writing reflections. It uses a 
 
 This project is, for the time being, mostly to learn Ruby and Ionic, and not an attempt to complete a commercial-quality product.
 
-
+It will be cool though!
