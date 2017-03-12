@@ -1,5 +1,5 @@
 
-Stay On Track
+Keep On Track
 ===============================
 
 A multi-platform tool for making daily plans and writing reflections. It uses a strict format to help you stay on track and keep improving.
